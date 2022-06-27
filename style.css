@@ -1,0 +1,17 @@
+body {
+  background-image: url(https://cdn.wallpapersafari.com/35/95/mSYE3M.jpg);
+}
+h1 {
+  color: white;
+}
+.underline {
+  color: white;
+  text-decoration: underline;
+}
+.green {
+  color: green;
+}
+.strikeoff {
+  color: red;
+  text-decoration: line-through;
+}
